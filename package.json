@@ -1,0 +1,28 @@
+{
+  "name": "nodejs-autorequire",
+  "version": "1.0.0",
+  "description": "Avoid to repeat require statements in nodeJS.",
+  "main": "nodejs-autoRequire.js",
+  "scripts": {
+    "test": "nodejs test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isiskov/nodejs-autorequire.git"
+  },
+  "author": "Ivica Siskov",
+  "license": "MIT",
+  "homepage": "https://github.com/isiskov/nodejs-autorequire#readme",
+  "keywords": [
+    "auto",
+    "require",
+    "auto-require",
+    "autorequire",
+    "loader",
+    "module",
+    "nodejs-autorequire"
+  ],
+  "devDependencies": {
+    "fs": "latest"
+  }
+}
