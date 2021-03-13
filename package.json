@@ -6,13 +6,17 @@
   "scripts": {
     "test": "nodejs test/test.js"
   },
+  "publishConfig": {
+    "name": "@isiskov/nodejs-autorequire",
+    "registry": "https://npm.pkg.github.com/isiskov/nodejs-autorequire"
+  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/isiskov/nodejs-autorequire.git"
+    "url": "https://github.com/isiskov/nodejs-autorequire.git"
   },
   "author": "Ivica Siskov",
   "license": "MIT",
-  "homepage": "https://github.com/isiskov/nodejs-autorequire#readme",
+  "homepage": "https://github.com/isiskov/nodejs-autorequire/blob/main/README.md",
   "keywords": [
     "auto",
     "require",
@@ -24,5 +28,11 @@
   ],
   "devDependencies": {
     "fs": "latest"
+  },
+  "bugs": {
+    "url": "https://github.com/isiskov/nodejs-autorequire/issues"
+  },
+  "directories": {
+    "test": "test"
   }
 }
