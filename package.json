@@ -1,8 +1,8 @@
 {
   "name": "nodejs-autorequire",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "description": "Avoid to repeat require statements in nodeJS.",
-  "main": "nodejs-autoRequire.js",
+  "main": "nodejs-autorequire.js",
   "scripts": {
     "test": "nodejs test/test.js"
   },
