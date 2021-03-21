@@ -6,10 +6,6 @@
   "scripts": {
     "test": "nodejs test/test.js"
   },
-  "publishConfig": {
-    "name": "@isiskov/nodejs-autorequire",
-    "registry": "https://npm.pkg.github.com/isiskov/nodejs-autorequire"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/isiskov/nodejs-autorequire.git"
